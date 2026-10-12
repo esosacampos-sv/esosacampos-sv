@@ -1,8 +1,6 @@
 # Hola, soy Elsa Sosa
 
-Soy desarrolladora de software con experiencia en aplicaciones de escritorio, sistemas empresariales, integración de datos y automatización de procesos.
-
-Trabajo principalmente con tecnologías Microsoft, especialmente C#, .NET, WPF, SQL Server y desarrollo de soluciones internas para operaciones, reportes y procesos administrativos.
+Soy Desarrolladora de Software con más de 15 años de experiencia en análisis, diseño, desarrollo e implementación de sistemas empresariales. Experiencia en aplicaciones .NET, WPF, SQL Server, desarrollo web, automatización de procesos, transferencia de datos, soporte a QA y atención de incidencias en ambientes reales. Me caracterizo por trabajar con autonomía técnica, enfoque en calidad del software y capacidad para transformar necesidades operativas en soluciones prácticas.
 
 ## Tecnologías
 
